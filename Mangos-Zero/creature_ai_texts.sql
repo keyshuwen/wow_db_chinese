@@ -63,7 +63,11 @@ UPDATE creature_ai_texts SET content_default='坦白交待了，我们就放你�
 UPDATE creature_ai_texts SET content_default='这儿有活人!' WHERE entry=-186;
 UPDATE creature_ai_texts SET content_default='USURPERS!!! GNOMEREGAN IS MINE!!!' WHERE entry=-188;
 UPDATE creature_ai_texts SET content_default='My machines are the future! They’ll destroy you all!' WHERE entry=-189;
+<<<<<<< Updated upstream
 UPDATE creature_ai_texts SET content_default='Explosions! MORE explosions! I’ve got to have more explosions!' WHERE entry=-190;
+=======
+UPDATE creature_ai_texts SET content_default='Explosions! MORE explosions! Ive got to have more explosions!' WHERE entry=-190;
+>>>>>>> Stashed changes
 UPDATE creature_ai_texts SET content_default='...and stay dead! He got served!' WHERE entry=-191;
 UPDATE creature_ai_texts SET content_default='它可以在这里非常热的荒地。但至少这是一个干热。' WHERE entry=-192;
 UPDATE creature_ai_texts SET content_default='小玩意儿 ...检查。 Doothingies ...检查。 Wizzers ...检查。' WHERE entry=-193;
@@ -272,7 +276,11 @@ UPDATE creature_ai_texts SET content_default='The Soulflayer comes!' WHERE entry
 UPDATE creature_ai_texts SET content_default='Join us!' WHERE entry=-823;
 UPDATE creature_ai_texts SET content_default='哈卡将再次重生！' WHERE entry=-824;
 UPDATE creature_ai_texts SET content_default='这个邪恶的不被允许进入这个世界！我的孩子！' WHERE entry=-825;
+<<<<<<< Updated upstream
 UPDATE creature_ai_texts SET content_default='你，死！' WHERE entry=-826;
+=======
+UPDATE creature_ai_texts SET content_default=' 你，死！'  WHERE entry=-826;
+>>>>>>> Stashed changes
 UPDATE creature_ai_texts SET content_default='不，你不能比星海强！不！' WHERE entry=-827;
 UPDATE creature_ai_texts SET content_default='%s 攻击卡拉恩的旌旗！' WHERE entry=-828;
 UPDATE creature_ai_texts SET content_default='%s 掌管！' WHERE entry=-829;
@@ -325,7 +333,11 @@ UPDATE creature_ai_texts SET content_default='Justice is done!' WHERE entry=-104
 UPDATE creature_ai_texts SET content_default='Tell the Warden this prison is ours now!' WHERE entry=-1041;
 UPDATE creature_ai_texts SET content_default='I’ll crush your skull beneath my boot!' WHERE entry=-1042;
 UPDATE creature_ai_texts SET content_default='Death to the Warden’s men!' WHERE entry=-1043;
+<<<<<<< Updated upstream
 UPDATE creature_ai_texts SET content_default='Fresh meat!' WHERE entry=-1044;
+=======
+UPDATE creature_ai_texts SET content_default='Fresh meat!'  WHERE entry=-1044;
+>>>>>>> Stashed changes
 UPDATE creature_ai_texts SET content_default='More of the Warden’s errand boys!' WHERE entry=-1045;
 UPDATE creature_ai_texts SET content_default='How dare you enter my sanctum!' WHERE entry=-1047;
 UPDATE creature_ai_texts SET content_default='You are in the presence of a god!' WHERE entry=-1048;
@@ -361,8 +373,13 @@ UPDATE creature_ai_texts SET content_default='Taste blade, mongrel!' WHERE entry
 UPDATE creature_ai_texts SET content_default='Please tell me that you didn’t just do what I think you just did. Please tell me that I’m not going to have to hurt you...' WHERE entry=-1157;
 UPDATE creature_ai_texts SET content_default='As if we don’t have enough problems, you go and create more!' WHERE entry=-1158;
 UPDATE creature_ai_texts SET content_default='Is that the best you can do?' WHERE entry=-1159;
+<<<<<<< Updated upstream
 UPDATE creature_ai_texts SET content_default='Ah ken see very well through this haze, but I’d know tha’ smell anywhere! Die ye foul ogre!' WHERE entry=-1160;
 UPDATE creature_ai_texts SET content_default='Ooooooooh... $B To the plaguelands went old Duggan, ta’send them Scourge back inta’th’ groun’. $B Where th’scent of death is on th’wind and everythin’ is mostly brown. $B An’ when he did arrive there, what’d his dwarf eyes see? $B A hundred crates of barley there ta’ be makin’ inta’ mead! $B But tha’ mead was cursed with th’ plague o’death, and now old Duggan, too. $B An’ surrounded by the Lich King’s beasts, what could old Duggan do? $B But though I feel the plague within, my hopes ’ave not yet sunk. $B If’n I’m gonna be Scourge anyway, I might as well be drunk!' WHERE entry=-1161;
+=======
+UPDATE creature_ai_texts SET content_default='Ah ken see very well through this haze, but I’d know tha’smell anywhere! Die ye foul ogre!' WHERE entry=-1160;
+UPDATE creature_ai_texts SET content_default='Ooooooooh... $B To the plaguelands went old Duggan, ta’ send them Scourge back inta’ th’ groun’. $B Where th’ scent of death is on th’ wind and everythin’ is mostly brown. $B An’ when he did arrive there, what’d his dwarf eyes see? $B A hundred crates of barley there ta’ be makin’ inta’mead! $B But tha’ mead was cursed with th’ plague o’death, and now old Duggan, too. $B An’ surrounded by the Lich King’s beasts, what could old Duggan do? $B But though I feel the plague within, my hopes ’ave not yet sunk. $B If’n I’m gonna be Scourge anyway, I might as well be drunk!' WHERE entry=-1161;
+>>>>>>> Stashed changes
 UPDATE creature_ai_texts SET content_default='Emperor Thaurissan does not wish to be disturbed! Turn back now or face your doom, weak mortals!' WHERE entry=-1194;
 UPDATE creature_ai_texts SET content_default='Prepare to be Malowned!' WHERE entry=-1195;
 UPDATE creature_ai_texts SET content_default='You just got MALOWNED!' WHERE entry=-1196;
