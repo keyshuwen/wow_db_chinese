@@ -4477,7 +4477,7 @@ UPDATE creature_template SET name='骑乘用陆行鸟（黄色）',subname='' WH
 UPDATE creature_template SET name='奥伯丁卫兵',subname='' WHERE entry=6086;
 UPDATE creature_template SET name='阿斯特兰纳哨兵',subname='' WHERE entry=6087;
 UPDATE creature_template SET name='哈里·伯加德',subname='' WHERE entry=6089;
-UPDATE creature_template SET name='巴托比',subname='醉鬼' WHERE entry=6090;
+UPDATE creature_template SET name='巴特莱比',subname='醉鬼' WHERE entry=6090;
 UPDATE creature_template SET name='德林拉尔',subname='食物和饮料商人' WHERE entry=6091;
 UPDATE creature_template SET name='蛀牙杰克',subname='' WHERE entry=6093;
 UPDATE creature_template SET name='拜恩希',subname='急救训练师' WHERE entry=6094;
