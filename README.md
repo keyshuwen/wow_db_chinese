@@ -1,2 +1,2 @@
 # wow_db_chinese
-Mangos 数据库汉化 全部：UPDATE 语句...只做汉化.不修改原来的数据库.
+CMangos 数据库汉化 全部：UPDATE 语句...只做汉化.不修改原来的数据库.
