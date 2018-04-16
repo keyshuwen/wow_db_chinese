@@ -1,5 +1,5 @@
 -- ===========================================
--- 清理 locales_item
+-- 清理 locales_areatrigger_teleport
 -- ===========================================
 TRUNCATE TABLE locales_areatrigger_teleport;
 

@@ -1,5 +1,5 @@
 -- ===========================================
--- 清理 locales_item
+-- 清理 locales_creature
 -- ===========================================
 TRUNCATE TABLE locales_creature;
 
@@ -3238,7 +3238,7 @@ INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (36
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3692, '沃科尔', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3693, '特伦希斯', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3694, '哨兵塞拉伊', NULL);
-INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3695, '冷酷之爪', NULL);
+INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3695, '锐爪', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3696, '兰恩·血牙', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3697, '凯林·长爪', '野猪训练师');
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (3698, '波尔温', '兽栏管理员');
