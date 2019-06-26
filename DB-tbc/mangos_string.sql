@@ -525,7 +525,7 @@ UPDATE mangos_string SET content_loc4='|    帐户    |  管理员  |' WHERE ent
 UPDATE mangos_string SET content_loc4='游戏管理员不存在.' WHERE entry=599;
 UPDATE mangos_string SET content_loc4='联盟获得胜利!' WHERE entry=600;
 UPDATE mangos_string SET content_loc4='部落获得胜利!' WHERE entry=601;
-UPDATE mangos_string SET content_loc4='战歌峡谷的战斗将在1分内钟开始.' WHERE entry=602;
+UPDATE mangos_string SET content_loc4='战歌峡谷的战斗将在1分钟内开始.' WHERE entry=602;
 UPDATE mangos_string SET content_loc4='战歌峡谷的战斗在30秒后开始，大家做好准备!' WHERE entry=603;
 UPDATE mangos_string SET content_loc4='战歌峡谷的战斗开始了！' WHERE entry=604;
 UPDATE mangos_string SET content_loc4='$N夺取了部落的旗帜！' WHERE entry=605;

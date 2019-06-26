@@ -14807,7 +14807,7 @@ INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22
 INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22442, '地穴追猎者束带', '');
 INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22443, '地穴追猎者护腕', '');
 INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22444, '腐烂藤蔓', '');
-INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22445, '古老的神秘灰尘', '');
+INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22445, '奥法之尘', '');
 INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22446, '强效位面精华', '');
 INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22447, '次级位面精华', '');
 INSERT INTO `locales_item` (`entry`, `name_loc4`, `description_loc4`) VALUES (22448, '小块棱光碎片', '');
