@@ -544,7 +544,7 @@ UPDATE mangos_string SET content_loc4='暴风之眼的战斗将在30秒内开始
 UPDATE mangos_string SET content_loc4='暴风之眼的战斗开始了！' WHERE entry=638;
 UPDATE mangos_string SET content_loc4='联盟' WHERE entry=650;
 UPDATE mangos_string SET content_loc4='部落' WHERE entry=651;
-UPDATE mangos_string SET content_loc4='马厩' WHERE entry=652;
+UPDATE mangos_string SET content_loc4='兽栏' WHERE entry=652;
 UPDATE mangos_string SET content_loc4='铁匠' WHERE entry=653;
 UPDATE mangos_string SET content_loc4='农场' WHERE entry=654;
 UPDATE mangos_string SET content_loc4='伐木场' WHERE entry=655;

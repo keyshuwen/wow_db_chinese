@@ -13460,7 +13460,7 @@ INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19409, '空军指挥官达比利', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19410, '碎手新兵', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19411, '碎手术士', NULL);
-INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19412, '黑铁矿石', '');
+INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19412, '德欧里', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19413, '碎手法师', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19414, '碎手卫兵', NULL);
 INSERT INTO `locales_creature` (`entry`, `name_loc4`, `subname_loc4`) VALUES (19415, '碎手侍僧', NULL);
